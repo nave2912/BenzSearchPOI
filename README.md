@@ -7,7 +7,7 @@ http://localhost:8080/v1/searchPOI?city=berlin&isCacheable=false
 URL with cahce 
 http://localhost:8080/v1/searchPOI?city=berlin&isCacheable=true
 
-
+ 
 Step1:clone project
 step2:open root directory
 Step3: execute below commands
